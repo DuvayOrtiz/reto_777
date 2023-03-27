@@ -165,7 +165,7 @@ n = 100 #asigno n
 x = criba(n)
 print(x) # imprimo :D
 ```
-
+#### *Eso es todo por hoy :D* _-Duva-_
 
 
 
